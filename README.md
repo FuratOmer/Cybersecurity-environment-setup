@@ -32,7 +32,7 @@ By default, Windows Defender Firewall blocks incoming ICMP (Ping) echo requests.
 #### Step B: Full Lab Connectivity & Internet Access
 Verifying complete network connectivity from our primary penetration testing machine (Kali Linux) to both the internal lab nodes and the external internet:
 <br>
-<img src="Screenshots/13. ICMP reply from Android to Kali.png" alt="Kali Network and Internet Verification">
+<img src="Screenshots/13. ICMP reply from Android to Kali.png" width="450" alt="Kali Network and Internet Verification">
 
 ---
 
