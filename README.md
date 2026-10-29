@@ -5,7 +5,7 @@
 The core objective was to build a practical, isolated lab environment centered around **Kali Linux** as our primary cybersecurity toolkit, alongside companion virtual machines, to serve as the foundation for all upcoming hands-on security and practical labs.
 
 ### 1. NAT Network Configuration
-To ensure controlled communication between virtual machines while maintaining external internet access, a dedicated private NAT Network was configured in Oracle VM VirtualBox:
+To ensure controlled communication between virtual machines while maintaining external internet access, a dedicated NAT Network was configured in Oracle VM VirtualBox:
 - **NAT Network Name:** `NatNetwork`
 - **Network CIDR:** `10.0.0.0/24`
 - **Default Gateway:** `10.0.0.1`
